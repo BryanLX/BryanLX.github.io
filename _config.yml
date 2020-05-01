@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Ceritfications
 more_content: | # this will include new lines to allow paragraphs
-  - Amazon Web Services Developer - Associate 
+  - Amazon Web Services Developer - Associate     
   <img src="AWScert.jpg" alt="text" width="400" height="400"/>
   - Amazon Web Services Cloud Practitioner   
   <img src="AWScert2.jpg" alt="text" width="400" height="400"/>
