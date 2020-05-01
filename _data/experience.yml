@@ -9,7 +9,6 @@
   quote: >
     Accountable for developing, maintaining, and optimizing various products for the leading provider of software solutions to the automotive industry with major international clients such as Volkswagen, Lexus, Nissan, and GM
     Monitor application performance, conduct performance testing, and isolate and address any software deficiencies
-
   description: | # this will include new lines to allow paragraphs
     - Directed a 2-member team in the development of a proof of concept (PoC) for the Technician Inspection software and successfully built a cloud-based prototype that exponentially decreased data loading and transfer times
     - Played an integral role in the development of the new Customer Connect product that leverages consumer data to automatically generate custom marketing campaigns and call scripts tailored towards target demographics
