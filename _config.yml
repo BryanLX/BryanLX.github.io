@@ -42,8 +42,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Ceritfications
 more_content: | # this will include new lines to allow paragraphs
-  1. Amazon Web Services Developer - Associate ![alt text](AWScert.jpg)
-  2. Amazon Web Services Cloud Practitioner 
+  1. Amazon Web Services Developer - Associate ![alt text](AWScert.jpg =150x)
+  2. Amazon Web Services Cloud Practitioner ![alt text](AWScert2.jpg =150x)
 
 # Footer
 footer_show_references: true
