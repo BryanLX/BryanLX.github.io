@@ -3,19 +3,19 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Bryan Liu
+title: Software Developer
+email: binliu321@gmail.com
+website: https://github.com/BryanLX
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: None
+github_username:  BryanLX
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: brianliuisme
+linkedin_username: bryan-bin-liu-ab312b134
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,9 +24,10 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+Innovative, versatile, and results-driven Software Developer offering an advanced academic background in Computer Science and 2+ years of experience with software development, testing, and optimization. 
+Recognized as a strategic problem-solver with a demonstrated record of defining, building, and implementing solutions that drive product improvements and ensure current and future business needs are met. 
+Proven history of contributing to all aspects of project development – from initial design and planning through to delivery and integration. Adept at working within a team or independently in fast-paced environments while balancing multiple tasks and competing deadlines.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
