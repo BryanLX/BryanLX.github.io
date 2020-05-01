@@ -1,31 +1,28 @@
 - layout: left
   name: GomukuAI
-  link: https://github.com/BryanLX/GomukuAI_python
   github: BryanLX/GomukuAI_python
   description: | # this will include new lines to allow paragraphs
     Gomuku AI coding with python,open instruction.pdf to found out how to play with it
 
 - layout: left
-  name: F
-  link: github.com/BryanLX/FaceDector_matlab
+  name: Face Dector
   github: BryanLX/FaceDector_matlab
   description: | # this will include new lines to allow paragraphs
     Shot detection, face detection and tracking, gender classification tool written by matlab
 
 - layout: left
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Artistdiscovery Website
+  github: BryanLX/Artistdiscovery_web
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    school project I have done for CSC 454 Business Software / CSC 491 Capstone Project. The purpose of this project is to find talented artists in twitter accounts and make a website for showing their information and ranking.
 
 - layout: left
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: SmartFleet Website
+  github: BryanLX/SmartFleet_Web
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    We made a website, a fleet management platform that does not require any additional hardware/software to use. Our platform allows businesses with many vehicles to better manage and monitor their employee car use remotely and in an automated way. This remote monitoring allows company to identify long term employee car use trends and potential misuse of company vehicles. All that is needed is for the vehicle to have 3G/LTE access.
+
+- layout: left
+  name: Pinke
+  description: | # this will include new lines to allow paragraphs
+    On going projects which provides classmate finding, timetable arrangement, and crouse shareing service for UofT students.
