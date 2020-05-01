@@ -1,6 +1,6 @@
 # Site
 repository: BryanLX/BryanLX.github.io
-favicon: images/favicon.ico
+favicon: images/favicon.png
 
 # Personal info
 name: Bryan Liu
@@ -30,14 +30,17 @@ about_content: | # this will include new lines to allow paragraphs
   Proven history of contributing to all aspects of project development – from initial design and planning through to delivery and integration. Adept at working within a team or independently in fast-paced environments while balancing multiple tasks and competing deadlines.
 
 
-# Projects Section
-# projects_title: Projects
+# Education Section
+# educaton_title: Education
 
 # Experience Section
 # experience_title: Experience
 
-# Education Section
-# educaton_title: Education
+
+# Projects Section
+# projects_title: Projects
+
+
 
 # More Section
 more_title: Ceritfications
