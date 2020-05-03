@@ -2,7 +2,7 @@
   name: GomukuAI
   github: BryanLX/GomukuAI_python
   description: | # this will include new lines to allow paragraphs
-    Created a digital version of the strategy board game Gomoku using Python with an AI-based computer challenger. For more about the rules of Gomuku game, click here: [link to wiki!](https://en.wikipedia.org/wiki/Gomoku).
+    Created a digital version of the strategy board game Gomoku using Python with an AI-based computer challenger. For more about the rules of Gomuku game, click here: [Gomuku Details](https://en.wikipedia.org/wiki/Gomoku).   
     <img src="./assets/Gomuku1.jpeg" alt="text" width="300" height="200"/> <img src="./assets/Gomuku2.jpeg" alt="text" width="300" height="200"/>
 
 - layout: left
@@ -10,7 +10,7 @@
   github: BryanLX/FaceDector_matlab
   description: | # this will include new lines to allow paragraphs
     Developed an application using MATLAB that tracks faces, gender in videos and detects when the visual shot changes   
-    [![Face Dector](./assets/FaceDetector1.jpg)](https://www.youtube.com/watch?v=rlbbqeR-5RI)
+    <a href="https://www.youtube.com/watch?v=rlbbqeR-5RI"><img src="./assets/FaceDetector1.jpg" alt="Face Dector" style="width:300px;height:200px;"></a>
 
 - layout: left
   name: Artistdiscovery Website
