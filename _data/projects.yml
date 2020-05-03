@@ -5,26 +5,30 @@
     Created a digital version of the strategy board game Gomoku using Python with an AI-based computer challenger. For more about the rules of Gomuku game, click here: [Gomuku Details](https://en.wikipedia.org/wiki/Gomoku).   
     <img src="./assets/Gomuku1.jpeg" alt="text" width="300" height="200"/> <img src="./assets/Gomuku2.jpeg" alt="text" width="300" height="200"/>
 
+
+- layout: left
+  name: Artistdiscovery Website
+  github: BryanLX/Artistdiscovery_web
+  description: | # this will include new lines to allow paragraphs
+    Produced a website for The Society of Composers, Authors & Music Publishers of Canada (SOCAN) that gave users the ability to discover new artists on Twitter and secure music royalties from YouTube videos   
+    <img src="./assets/AD.png" alt="text" width="300" height="200"/>
+
+
+- layout: left
+  name: SmartFleet Website
+  github: BryanLX/SmartFleet_Web
+  description: | # this will include new lines to allow paragraphs
+    Partnered with <a href="https://smartcar.com/">SmartCar </a> to develop a functional website prototype for their Smart vehicle product line that offers remote keyless entry, GPS location tracking, and automated fleet management services
+
 - layout: left
   name: Face Dector
   github: BryanLX/FaceDector_matlab
   description: | # this will include new lines to allow paragraphs
     Developed an application using MATLAB that tracks faces, gender in videos and detects when the visual shot changes   
     <a href="https://www.youtube.com/watch?v=rlbbqeR-5RI"><img src="./assets/FaceDetector1.jpg" alt="Face Dector" style="width:300px;height:200px;"></a>
-
-- layout: left
-  name: Artistdiscovery Website
-  github: BryanLX/Artistdiscovery_web
-  description: | # this will include new lines to allow paragraphs
-    School project I have done for CSC 454 Business Software / CSC 491 Capstone Project. The purpose of this project is to find talented artists in twitter accounts and make a website for showing their information and ranking.
-
-- layout: left
-  name: SmartFleet Website
-  github: BryanLX/SmartFleet_Web
-  description: | # this will include new lines to allow paragraphs
-    We made a website, a fleet management platform that does not require any additional hardware/software to use. Our platform allows businesses with many vehicles to better manage and monitor their employee car use remotely and in an automated way. This remote monitoring allows company to identify long term employee car use trends and potential misuse of company vehicles. All that is needed is for the vehicle to have 3G/LTE access.
-
+    
 - layout: left
   name: Pinke
   description: | # this will include new lines to allow paragraphs
-    On going projects which provides classmate finding, timetable arrangement, and crouse shareing service for UofT students.
+    Currently building the infrastructure for a new application using AWS Amplify and Angular that gives university students the ability to arrange their timetables and identify course classmates and potential tutors for the semester
+
