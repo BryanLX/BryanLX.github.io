@@ -2,20 +2,21 @@
   name: GomukuAI
   github: BryanLX/GomukuAI_python
   description: | # this will include new lines to allow paragraphs
-    Gomuku AI coding with python,open instruction.pdf to found out how to play with it   
-    <img src="./assets/Gomuku1.jpeg" alt="text" width="200" height="150"/> <img src="./assets/Gomuku2.jpeg" alt="text" width="200" height="150"/>
+    Created a digital version of the strategy board game Gomoku using Python with an AI-based computer challenger. For more about the rules of Gomuku game, click here: [link to wiki!](https://en.wikipedia.org/wiki/Gomoku).
+    <img src="./assets/Gomuku1.jpeg" alt="text" width="300" height="200"/> <img src="./assets/Gomuku2.jpeg" alt="text" width="300" height="200"/>
 
 - layout: left
   name: Face Dector
   github: BryanLX/FaceDector_matlab
   description: | # this will include new lines to allow paragraphs
-    Shot detection, face detection and tracking, gender classification tool written by matlab
+    Developed an application using MATLAB that tracks faces, gender in videos and detects when the visual shot changes   
+    [![Face Dector](./assets/FaceDetector1.jpg)](https://www.youtube.com/watch?v=rlbbqeR-5RI)
 
 - layout: left
   name: Artistdiscovery Website
   github: BryanLX/Artistdiscovery_web
   description: | # this will include new lines to allow paragraphs
-    school project I have done for CSC 454 Business Software / CSC 491 Capstone Project. The purpose of this project is to find talented artists in twitter accounts and make a website for showing their information and ranking.
+    School project I have done for CSC 454 Business Software / CSC 491 Capstone Project. The purpose of this project is to find talented artists in twitter accounts and make a website for showing their information and ranking.
 
 - layout: left
   name: SmartFleet Website
