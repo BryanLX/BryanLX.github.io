@@ -3,6 +3,7 @@
   github: BryanLX/GomukuAI_python
   description: | # this will include new lines to allow paragraphs
     Gomuku AI coding with python,open instruction.pdf to found out how to play with it
+    <img src="./assets/Gomuku1.jpeg" alt="text" width="200" height="150"/> <img src="./assets/Gomuku2.jpeg" alt="text" width="200" height="150"/>
 
 - layout: left
   name: Face Dector
